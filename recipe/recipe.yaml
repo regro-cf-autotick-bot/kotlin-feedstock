@@ -1,5 +1,5 @@
 context:
-  version: "2.4.10"
+  version: "2.4.20"
 
 package:
   name: kotlin
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/JetBrains/kotlin/archive/v${{ version }}.tar.gz
-  sha256: b525ad1b56062509b3fbdf5f3c6e52eead999938cf1ba6c9129410699dba7414
+  sha256: 7c911e664d22220f2eab890a9910392e5486cc2f3da434d79319ef9e42f0fafb
 
 build:
   number: 0
